@@ -1,71 +1,52 @@
-<h1 align="center"> I'm Srujan Alumula</h1>
-<h3 align="center">Full Stack Developer | AI/ML Learner | UI Developer</h3>
+<div align="center">
+  <h1>Hi there 👋, I'm Srujan Alumula</h1>
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Learner;UI+Developer" alt="Typing SVG" />
+  </h3>
+</div>
 
----
+<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap;">
+  
+  <!-- Left Side -->
+  <div style="flex:1; min-width:300px; padding-right:20px;">
 
-## 🚀 About Me  
-I'm pursuing my **Master’s in Computer Science** at the **University of South Florida (USF)**, where I thrive at the intersection of technology and creativity.  
+### 🚀 About Me
+**Full Stack Developer & AI/ML Enthusiast** pursuing **MS CS at USF**. Passionate about creating scalable, user-focused solutions.
 
-With hands-on experience as a **Full Stack Developer Intern** at **South Central Railways** and **UI/UX Developer** at **Scintillate Informatics**, I have developed solutions that bridge functionality with user-centric design.  
+**Experience & Education:**  
+- **UI Developer | Scintillate Informatics Pvt Ltd** *(Jul 2024 – Dec 2024)* – Built responsive, visually engaging web interfaces.  
+- **Full Stack Developer Intern | South Central Railways** *(Jul 2023 – Dec 2023)* – Built Blood Donation App and custom CRM system.  
+- **MS in Computer Science** – University of South Florida *(Jan 2025 – Dec 2027)*  
+- **Bachelor of Engineering (AI/ML)** – Kalasalingam Academy of Research and Education *(2020 – 2024)*  
 
-I’m passionate about **AI/ML projects**, **UI/UX design**, and **building scalable solutions** that solve real-world problems.
+### 🛠 Skills & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" width="100" style="margin:8px; border-radius:50%" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,angular,nodejs,php" width="100" style="margin:8px; border-radius:50%" />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,mongodb,git" width="100" style="margin:8px; border-radius:50%" />
+  <img src="https://skillicons.dev/icons?i=github,docker,aws,wordpress" width="70" style="margin:8px; border-radius:50%" />
+</p>
 
-📍 **Based in:** Tampa, FL, USA  
-📧 **Reach me at:** [srujanalumula9@gmail.com](mailto:srujanalumula9@gmail.com)
+### 🌐 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/srujan-alumula/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" style="margin:5px; border-radius:50%" />
+  </a>
+  <a href="https://github.com/SrujanAlumula" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" style="margin:5px; border-radius:50%" />
+  </a>
+  <a href="mailto:srujanalumula9@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" style="margin:5px; border-radius:50%" />
+  </a>
+</p>
 
----
+  </div>
 
-## 🎓 Education  
-- 🎓 **MS in Computer Science** – University of South Florida *(Jan 2025 – Dec 2027)*  
-- 🎓 **Bachelor of Engineering (AI/ML)** – Kalasalingam Academy of Research and Education *(2020 – 2024)*
+  <!-- Right Side Image -->
+  <div style="flex:1; min-width:250px; text-align:center;">
+    <img src="https://i.ibb.co/4f3bec38/illustration.png" width="300" style="border-radius:20px;" />
+  </div>
 
----
+</div>
 
-## 💼 Experience  
-- 💻 **UI Developer | Scintillate Informatics Private Limited** *(Jul 2024 – Dec 2024)*  
-  Worked on responsive, visually engaging web interfaces using **HTML, CSS, JavaScript, and animation libraries**.
-
-- 🖥 **Full Stack Developer Intern | South Central Railways** *(Jul 2023 – Dec 2023)*  
-  - Built a **Blood Donation App** for railway employees.  
-  - Developed a custom **CRM system** to streamline and manage operations.
-
----
-
-## 🏆 Certificates  
-- 🧠 **AI/ML** – IBM  
-- ☕ **Java Basics** – Oracle  
-- ☁ **AWS Academy Graduate** – AWS Cloud Foundations  
-
----
-
-## 🛠 Skills & Tools  
-
-### 💻 Frontend Development  
-HTML • CSS • JavaScript • React.js • Bootstrap • Angular  
-
-### ⚙️ Backend Development  
-Node.js • PHP • Laravel  
-
-### 🗄 Databases  
-MySQL • MongoDB  
-
-### 🧰 Tools & Platforms  
-GitHub • Docker • AWS • Postman  
-
-### 🎨 Other Skills  
-WordPress • UI/UX Design • SEO Optimization  
-
----
-
-## 📌 Projects
-| Project | Description | Tech Stack |
-|--------|-------------|-----------|
-| **Blood Donation App** | Connects donors with recipients nearby. | React Native, Firebase |
-| **Leaf Disease Detection System** | Detects plant leaf diseases using ML. | Python, OpenCV, ML Models |
-| **University Management System** | System to manage university operations. | PHP, MySQL |
-
----
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srujan-alumula/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://)
+⭐ **"I believe in combining creativity and technology to build solutions that make an impact."**
