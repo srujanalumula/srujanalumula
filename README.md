@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Srujan Alumula</h1>
+  <h1>I'm Srujan Alumula</h1>
   <h3>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Learner;UI+Developer" alt="Typing SVG" />
   </h3>
@@ -21,10 +21,10 @@
 
 ### 🛠 Skills & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" width="100" style="margin:8px; border-radius:50%" />
-  <img src="https://skillicons.dev/icons?i=bootstrap,angular,nodejs,php" width="100" style="margin:8px; border-radius:50%" />
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,mongodb,git" width="100" style="margin:8px; border-radius:50%" />
-  <img src="https://skillicons.dev/icons?i=github,docker,aws,wordpress" width="70" style="margin:8px; border-radius:50%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" width="120" style="margin:8px; border-radius:50%" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,angular,nodejs,php" width="120" style="margin:8px; border-radius:50%" />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,mongodb,git" width="120" style="margin:8px; border-radius:50%" />
+  <img src="https://skillicons.dev/icons?i=github,docker,aws,wordpress" width="120" style="margin:8px; border-radius:50%" />
 </p>
 
 ### 🌐 Connect with Me
@@ -42,10 +42,7 @@
 
   </div>
 
-  <!-- Right Side Image -->
-  <div style="flex:1; min-width:250px; text-align:center;">
-    <img src="https://i.ibb.co/4f3bec38/illustration.png" width="300" style="border-radius:20px;" />
-  </div>
+ 
 
 </div>
 
